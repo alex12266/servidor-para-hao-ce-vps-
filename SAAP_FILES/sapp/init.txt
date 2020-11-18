@@ -1,0 +1,20 @@
+sv_rcon_password alex777
+ping_kick 800
+antihalofp 1
+antispam 2
+anticamp 30 10
+mapvote 1
+sapp_mapcycle 0
+save_scores 1
+map_skip 41
+sapp_console 1
+msg_prefix "***CLAN -RT-*** "
+cheat_jetpack 1
+aimbot_ban 10000 1
+max_votes 5
+scrim_mode 0
+no_lead 1
+adminban 1
+custom_sleep 1
+mtv 1
+spam

@@ -1,0 +1,8 @@
+bloodgulch:CLB2
+ratrace:Slayer
+beavercreek:Sniper
+carousel:Slayer
+chillout:Sniper
+hangemhigh:Slayer
+prisoner:Sniper
+wizard:Sniper
